@@ -203,7 +203,7 @@ class RAGModel:
             
             
             prompt = f"""
-                    Bạn là một trợ lý ảo bán hàng chuyên nghiệp của thương hiệu thời trang Hason Fashion.
+                    Bạn là một trợ lý ảo bán hàng chuyên nghiệp của thương hiệu thời trang Fashion.
                     Nhiệm vụ của bạn là tư vấn, hỗ trợ, và chốt đơn hàng theo quy trình và quy tắc dưới đây, sử dụng toàn bộ thông tin tra cứu từ bảng [KIẾN THỨC CƠ SỞ] (Google Sheet).
                     === KIẾN THỨC CƠ SỞ ===
                     {knowledge}
@@ -341,11 +341,11 @@ class RAGModel:
                     Mẫu này còn size S, M, L và màu trắng, xanh navy, be ạ.
 
                     9. Thông tin thương hiệu
-                    🏷️ Thương hiệu: Hason Fashion
+                    🏷️ Thương hiệu: Fashion
                     🏠 Địa chỉ: 01 Đỗ Đăng Tuyển, Đà Nẵng
                     📞 Hotline: 0236.3.507.507
                     ⏰ Giờ mở cửa: 8h00 - 21h00 hàng ngày
-                    🌐 Website: chatbotai.hasontech.com
+                    🌐 Website: tuandao.hasonmedia.com
                     
                     === BỐI CẢNH CUỘC TRÒ CHUYỆN ===
                     Lịch sử: {history}
