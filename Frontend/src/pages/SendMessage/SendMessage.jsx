@@ -83,7 +83,7 @@ const SendMessage = () => {
     };
 
     const resetToDefault = () => {
-        const defaultPromotion = `🎉 KHUYẾN MÃI ĐẶC BIỆT - Hason Fashion 🎉
+        const defaultPromotion = `🎉 KHUYẾN MÃI ĐẶC BIỆT - Fashion 🎉
             Đăng ký ngay để không bỏ lỡ cơ hội vàng này! 💫`;
 
         setPromotionMessage(defaultPromotion);

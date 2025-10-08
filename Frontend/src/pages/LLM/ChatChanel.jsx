@@ -28,8 +28,8 @@ const ChatChanel = ({ greetingMessage, setGreetingMessage, botName, setBotName }
     };
 
     const resetToDefault = () => {
-        const defaultGreeting = `Em là nhân viên tư vấn của Hason Fashion. Em rất vui được hỗ trợ anh/chị!
-                                    Hason Fashion là thương hiệu thời trang nữ:
+        const defaultGreeting = `Em là nhân viên tư vấn của Fashion. Em rất vui được hỗ trợ anh/chị!
+                                    Fashion là thương hiệu thời trang nữ:
                                     - Váy & đầm.
                                     - Áo dài.
                                     - Trang phục công sở
