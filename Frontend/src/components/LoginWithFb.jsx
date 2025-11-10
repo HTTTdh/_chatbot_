@@ -1,6 +1,6 @@
 const FB_APP_ID = "1658469781534458";
 // const Url = `https://chatbotbe.a2alab.vn`;
-const Url = `https://tuandaobe.hasonmedia.com`;
+const Url = `https://chatbotbe.hasonai.vn/`;
 // const Url = `http://localhost:8000`;
 const REDIRECT_URI = `${Url}/facebook-pages/callback`;
 

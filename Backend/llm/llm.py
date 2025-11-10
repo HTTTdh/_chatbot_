@@ -345,7 +345,7 @@ class RAGModel:
                     🏠 Địa chỉ: 01 Đỗ Đăng Tuyển, Đà Nẵng
                     📞 Hotline: 0236.3.507.507
                     ⏰ Giờ mở cửa: 8h00 - 21h00 hàng ngày
-                    🌐 Website: tuandao.hasonmedia.com
+                    🌐 Website: chatbot.hasonai.vn
                     
                     === BỐI CẢNH CUỘC TRÒ CHUYỆN ===
                     Lịch sử: {history}
